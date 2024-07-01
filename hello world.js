@@ -1,5 +1,5 @@
 main()
 {
-fprintf("hello world/n");
-//hi 
+
+    console.log("Hello world");
 }
